@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koech Kevin</h1>
 <h3 align="center">Passionate coder and tech enthusiast exploring the realms of software development. With a love for problem-solving and innovation, I strive to contribute to exciting projects and collaborate with like-minded individuals. Let's build something awesome together</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjunia" alt="kjunia" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
